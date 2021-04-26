@@ -1,0 +1,8 @@
+APP_ID=docker
+MODE=dev
+DB_HOST=docker-postgresql
+DB_USER=docker
+DB_PASSWORD=571632
+DB_NAME=docker
+DB_DATA_PATH=./runtime/db_data
+GITHUB_AUTH_TOKEN=personal_token

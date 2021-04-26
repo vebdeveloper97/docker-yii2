@@ -29,9 +29,13 @@
         "symfony/browser-kit": ">=2.7 <=4.2.4",
         "codeception/module-filesystem": "^1.0.0",
         "codeception/module-yii2": "^1.0.0",
-        "codeception/module-asserts": "^1.0.0"
+        "codeception/module-asserts": "^1.0.0",
+        "symfony/dotenv": "^5.2"
     },
     "config": {
+        "github-oauth": {
+            "github.com": "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"
+        },
         "process-timeout": 1800,
         "fxp-asset": {
             "enabled": false
